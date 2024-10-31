@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm arnav aka smokiee</h1>
+<h1 align="center">Hi, I'm arnav aka smokiee</h1>
 <h3 align="center">Research Intern @ NIH, US, @ Harvard / @ IIT BBS | ML @ JuliaHealth | Prev. Research Intern @ UCLA | Building @ DreamSkrin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w2sg-arnav&label=Profile%20views&color=0e75b6&style=flat" alt="w2sg-arnav" /> </p>
