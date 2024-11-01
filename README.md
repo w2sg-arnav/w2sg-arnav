@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sonavane.arnav2@gmail.com**
 
-- ⚡ Fun fact **i'm batman**
+- ⚡ Fun fact **i/m probably daydreaming rn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
