@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arnxv_eh" target="blank"><img src="https://img.shields.io/twitter/follow/arnxv_eh?logo=twitter&style=for-the-badge" alt="arnxv_eh" /></a> </p>
 
-- 🔭 I’m currently working on **MongoDB hacks**
+- 🔭 I’m currently working on **MongoDB hacks/Red Hat Hacks**
 
 - 👯 I’m looking to collaborate on **Hackathons & Kaggle comps**
 
