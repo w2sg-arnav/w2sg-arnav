@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on **MongoDB hacks/Red Hat Hacks**<br><br>- 👯 I’m looking to collaborate on **Hackathons & Kaggle comps**<br><br>- 💬 Ask me about **ML-Ops**<br><br>- 📫 How to reach me **sonavane.arnav2@gmail.com**<br><br>- ⚡ Fun fact **i/m probably daydreaming rn**
+<br>- 🔭 I’m currently working on **stuff idk yet**<br><br>- 👯 I’m looking to collaborate on **new stuff**<br><br>- 💬 Ask me about **stuff**<br><br>- 📫 How to reach me **sonavane.arnav2@gmail.com**<br><br>- ⚡ Fun fact **i/m batman**
 
 
 ## 🌐 Socials:
