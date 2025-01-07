@@ -1,6 +1,6 @@
-# 💫 About Me:
-<br>- 🔭 I’m currently working on **stuff idk yet**<br><br>- 👯 I’m looking to collaborate on **new stuff**<br><br>- 💬 Ask me about **stuff**<br><br>- 📫 How to reach me **sonavane.arnav2@gmail.com**<br><br>- ⚡ Fun fact **i/m batman**
-
+#  About Me:
+Mars Ultor 
+Mail: sonavane.arnav2@gmail.com 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnav_mcmxvi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavsonavane) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arnxv_eh) 
