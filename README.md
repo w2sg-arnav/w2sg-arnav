@@ -8,7 +8,7 @@
 $ whoami
 > ML Researcher building the future of AI safety and LLM optimization
 > Junior @ University of Mumbai | GPA: 8.35/10.0
-> Currently: Founding Engineer @ Entrepreneurs First
+> Currently: Building Metronis @ Entrepreneurs First
 ```
 
 ---
@@ -37,7 +37,7 @@ Research Intern under Dr. Chris Grunseich
 
 ## Publications & Projects
 
-**🏆 AAAI 2025** • Novel Vision Architecture  
+**🏆 ICLR 2026** • Novel Vision Architecture  
 → **3x throughput improvement** over Vision Transformers  
 → 2x model parameters with superior efficiency  
 
