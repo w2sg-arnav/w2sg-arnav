@@ -7,7 +7,7 @@
 ```bash
 $ whoami
 > ML Researcher building the future of AI safety and LLM optimization
-> Junior @ University of Mumbai | GPA: 8.35/10.0
+> Junior @ University of Mumbai
 > Currently: Building Metronis @ Entrepreneurs First
 ```
 
