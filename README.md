@@ -59,8 +59,6 @@ Research Intern under Dr. Chris Grunseich
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w2sg-arnav&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=w2sg-arnav&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=w2sg-arnav&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=w2sg-arnav&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=30363d&point=c9d1d9)
