@@ -16,3 +16,7 @@ jobs:
           template: classic
           base: activity, community, repositories
           config_timezone: Asia/Kolkata
+
+          # 🔽 THIS IS THE MISSING PART
+          output_action: commit
+          output_path: ./metrics.svg
