@@ -1,1 +1,2 @@
-welcome to south georgo
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
