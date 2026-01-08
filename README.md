@@ -1,6 +1,6 @@
 sons of mars
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.69%20million%20lines%20of%20code-blue?style=flat)
 
@@ -31,16 +31,19 @@ Sunday                   13 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   42 mins             █████████████████░░░░░░░░   69.22 % 
+YAML                     18 mins             ████████░░░░░░░░░░░░░░░░░   30.45 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HierarchialViT           42 mins             █████████████████░░░░░░░░   69.55 % 
+w2sg-arnav               18 mins             ████████░░░░░░░░░░░░░░░░░   30.45 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,5 +58,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2026 18:36:58 UTC
+ Last Updated on 08/01/2026 18:48:47 UTC
 <!--END_SECTION:waka-->
